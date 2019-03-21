@@ -33,6 +33,11 @@ public class Processes {
         return status;
     }
     
+    int cobaCoba(int no){
+        return no;
+    }
+
+
     ArrayList<String[]> masukDictionary(ArrayList<String[]> arrayDictionary){
         BufferedReader ins;
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
