@@ -15,6 +15,10 @@ import java.util.ArrayList;
  *
  * @author Asus
  */
+
+
+
+// COBA GIT BISA HUAHAHAHAHHAAHAHAHA
 public class Processes {
     
     boolean checkValidity(String q, String[] aq){
@@ -29,6 +33,11 @@ public class Processes {
         return status;
     }
     
+    int cobaCoba(int no){
+        return no;
+    }
+
+
     ArrayList<String[]> masukDictionary(ArrayList<String[]> arrayDictionary){
         BufferedReader ins;
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
