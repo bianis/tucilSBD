@@ -15,6 +15,10 @@ import java.util.ArrayList;
  *
  * @author Asus
  */
+
+
+
+// COBA GIT BISA HUAHAHAHAHHAAHAHAHA
 public class Processes {
     
     boolean checkValidity(String q, String[] aq){
