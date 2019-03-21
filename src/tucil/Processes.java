@@ -17,7 +17,7 @@ import java.util.ArrayList;
  */
 
 
-
+// yes bisa
 // COBA GIT BISA HUAHAHAHAHHAAHAHAHA
 public class Processes {
     
@@ -33,11 +33,6 @@ public class Processes {
         return status;
     }
     
-    int cobaCoba(int no){
-        return no;
-    }
-
-
     ArrayList<String[]> masukDictionary(ArrayList<String[]> arrayDictionary){
         BufferedReader ins;
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
